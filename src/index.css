@@ -1,0 +1,28 @@
+.h1 {
+  color: rgb(22, 22, 22);
+}
+
+.h2 {
+  color: rgb(20, 20, 20);
+}
+
+.table th {
+  background-color: rgb(49, 46, 46);
+  border: 2px solid rgb(7, 0, 0);
+}
+
+.table td {
+  background-color: rgb(49, 46, 46);
+  border: 2px solid rgb(7, 0, 0);
+  color: rgb(0, 0, 0);
+}
+
+.table {
+  width: 50%;
+  margin: auto;
+}
+
+#root,
+body {
+  background-color: rgb(49, 46, 46);
+}
